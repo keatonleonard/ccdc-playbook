@@ -1,7 +1,6 @@
 # Password changes — commands only
 
-**No passwords in this file.** The actual passwords are on my private sheet (never on GitHub, never pasted into AI).
-Use password #1 first. If an account is compromised, switch to the next one on my sheet.
+**No passwords in this file.**
 
 **Scored users (steve, alex, and the 8 regular users): every time I change one, submit a new PCR in Quotient.**
 **Use the same password for a user on every machine** (the PCR has one password per user).
